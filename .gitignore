@@ -3,6 +3,7 @@
 .DS_Store
 .vscode
 artifacts
+lib/forge-std
 cache
 .env
 .cache/*.jwt
